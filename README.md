@@ -1,4 +1,7 @@
 # A Jupyter Notebook about Programming
 
 ### Python
-* <a href='/blob/master/Python/pandas-tutorial.ipynb'>pandas tutorial</a>
+* [pandas tutorial][#pandas-tutorial]
+
+
+[#pandas-tutorial]: https://github.com/Sai628/jupyter-notebook/blob/master/Python/pandas-tutorial.ipynb
