@@ -4,4 +4,4 @@
 * [pandas tutorial][#pandas-tutorial]
 
 
-[#pandas-tutorial]: https://github.com/Sai628/jupyter-notebook/blob/master/Python/pandas-tutorial.ipynb
+[#pandas-tutorial]: http://nbviewer.jupyter.org/github/Sai628/jupyter-notebook/blob/master/Python/pandas-tutorial.ipynb
